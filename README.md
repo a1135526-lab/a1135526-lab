@@ -5,13 +5,12 @@
  -->
 
 
-
 # Hello! I'm Jia Xun Li
 
 
 - <i class="fa-brands fa-instagram"></i><a href="https://www.instagram.com/lijixu1207"> my Instagram </a>
 - 🧑‍🎓Studying at National Kaohsiung University
-
+- 🎓 I'm currently a student learning **Computer Science and Information Engineering**.
 ---
 
 ### Things I've learned
